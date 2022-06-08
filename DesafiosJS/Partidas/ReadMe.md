@@ -1,10 +1,47 @@
-### Desafio
-Daenerys é a khaleesi dos Dothraki. Juntamente com Drogon, eles vão atrás do Tyrion, para tentar dominar Westeros. Ela possui, além do seu dragãozinho, um rastreador que mede o nível de energia de qualquer ser vivo. Todos os seres com o nível menor ou igual a 8000, ela considera como se fosse um inseto. Quando passa deste valor, que foi o caso do Drogon, ela se espanta e grita “Mais de 8000”. Baseado nisso, utilize a mesma tecnologia e analise o nível de energia dos seres vivos.
-**Entrada**
+Você recebe um inteiro n, o número de equipes em um torneio que tem regras estranhas:
 
-A entrada é composta por vários casos de teste. A primeira linha contém um número inteiro C relativo ao número de casos de teste. Em seguida, haverá C linhas, com um número inteiro N (100 <= N <= 100000) relativo ao nível de energia de um ser vivo.
-**Saída**
+Se o número atual de equipes for par , cada equipe será emparelhada com outra equipe. Um total de n / 2 partidas são jogadas e n / 2 as equipes avançam para a próxima rodada.
 
-Para cada valor lido, imprima o texto correspondente.
+Se o número atual de equipes for ímpar , uma equipe avança aleatoriamente no torneio e o restante é emparelhado. Um total de (n - 1) / 2 partidas são jogadas e (n - 1) / 2 + 1as equipes avançam para a próxima rodada.
+
+Retorna o número de partidas jogadas no torneio até que um vencedor seja decidido.
+
+
+
+Exemplo 1
+
+Entrada	Saída
+7	6
+
+
+Explicação:
+
+- 1Round: Times=  7, Partidas = 3 e 4 times avançam.
+
+- 2Round: Times = 4, Partidas = 2, e 2 times avançam.
+
+- 3Round: Times = 2, Partidas = 1, e um time é campeão.
+
+Total número de partidas = 3 + 2 + 1 = 6.
+
+
+
+Exemplo 2
+
+Entrada	Saída
+14	13
+Explicação
+
+- 1Round: Times = 14, Partidas = 7, e 7 ttimes avançam.
+
+- 2Round: Times = 7, Partidas = 3, e 4 times avançam.
+
+- 3Round: Times = 4, Partidas = 2, e 2 times avançam.
+
+- 4Round: Times = 2, Partidas=  1, e 1 é campeão.
+
+Total número de partidas = 7 + 3 + 2 + 1 = 13.
 
  
+
+
