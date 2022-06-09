@@ -20,17 +20,17 @@ public class Main{
 			
 
 			N = Integer.parseInt(linha2[0]);
-			M = Integer.parseInt(         );
+			M = Integer.parseInt(linha2[1]);
 		
 			nome1 = linha1[0];
 			escolha1 = linha1[1];
 
-			nome2 = linha1[ ];
-			escolha2 = linha1[ ];
+			nome2 = linha1[2];
+			escolha2 = linha1[3];
 			
 			 
-			if (((N + M) %       && escolha1.equalsIgnoreCase("PAR")) ||
-			    ((N + M) %       &&                                 )) System.out.println(    );
+			if (((N + M) % 2 == 0  && escolha1.equalsIgnoreCase("PAR")) ||
+			    ((N + M) % 2 > 0 && escolha1.equalsIgnoreCase("IMPAR"))) System.out.println(nome1);
 			else System.out.println(nome2);
 		}
     }

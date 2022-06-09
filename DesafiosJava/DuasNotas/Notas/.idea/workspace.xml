@@ -2,40 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c9fe168-0a79-4224-a59b-ba343539ba26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Conta/QuemPagaAConta/QuemPagaAConta.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Conta/QuemPagaAConta/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/VezDeQuem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/Distancia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/out/production/Distancia/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Notas/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Conta/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Conta/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Conta/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DeQuemEVez/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/out/production/VezDeQuem/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DeQuemEVez/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../DeQuemEVez/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Menores/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Menores/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Menores/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654800452965</updated>
-      <workItem from="1654800454154" duration="2583000" />
+      <workItem from="1654800454154" duration="3181000" />
     </task>
     <servers />
   </component>
