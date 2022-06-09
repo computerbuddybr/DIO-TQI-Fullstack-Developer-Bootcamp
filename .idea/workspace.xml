@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="Desafios de Java completados.">
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Conta/QuemPagaAConta/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Conta/QuemPagaAConta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Conta/QuemPagaAConta/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Conta/QuemPagaAConta/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/DeQuemEVez/VezDeQuem/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafiosJava/Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/out/production/ProibidaEntradaDeMenores/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafiosJava/DuasNotas/Notas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DesafiosJava/DuasNotas/Notas/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AJ24SPq9Ck7kMpyKolxgj27prs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DesafiosJS/somaNumerosNaturais/js.js" working-dir="$PROJECT_DIR$/DesafiosJS/somaNumerosNaturais">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.js.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="" />
+      <created>1654713176590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654713176590</updated>
+      <workItem from="1654713178949" duration="567000" />
+      <workItem from="1654715238722" duration="8198000" />
+      <workItem from="1654809082704" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="Atualizando pra pegar no Ubuntu">
+      <created>1654713738116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654713738116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Desafios de JS completados">
+      <created>1654723424277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654723424277</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Desafios de JS completados">
+      <created>1654723532045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654723532045</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Atualizando pra pegar no Ubuntu" />
+    <MESSAGE value="Desafios de JS completados" />
+    <MESSAGE value="Desafios de Java completados." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios de Java completados." />
+  </component>
+</project>
