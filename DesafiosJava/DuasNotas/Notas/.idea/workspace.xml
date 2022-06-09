@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c9fe168-0a79-4224-a59b-ba343539ba26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Conta/QuemPagaAConta/QuemPagaAConta.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Conta/QuemPagaAConta/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/VezDeQuem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeQuemEVez/VezDeQuem/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/Distancia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/out/production/Distancia/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Distancia/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Notas/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Menores/ProibidaEntradaDeMenores/ProibidaEntradaDeMenores/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conta/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conta/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Conta/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeQuemEVez/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeQuemEVez/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../DeQuemEVez/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../DistanciaEntreDoisPontos/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Menores/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Menores/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Menores/ReadMe.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ALsyJXQvsRef3VxEuDqP8lBMEC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Notas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c9fe168-0a79-4224-a59b-ba343539ba26" name="Changes" comment="" />
+      <created>1654800452965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654800452965</updated>
+      <workItem from="1654800454154" duration="2583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

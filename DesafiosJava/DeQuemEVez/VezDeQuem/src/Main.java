@@ -1,8 +1,6 @@
-// TODO: complete os espaços em branco com sua solução para o problema
-// Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.*;
 
-public class DIO{
+public class Main{
 
     public static void main(String[] args) {
 

@@ -1,12 +1,6 @@
-// a função gets é implementada dentro do sistema para ler as entradas(inputs) dos dados e a função print para imprimir a saída (output) de dados e já pula uma linha ("\n")
-// Abaixo segue um exemplo de código que você pode ou não utilizar
+## Desafio
+O objetivo deste desafio é resolvê-lo utilizando o seu conhecimento sobre Arrays, uma estrutura de dados que armazena uma coleção de dados em um bloco de memória.
 
-var array = [ 2, 3, 5, 7, 11, 13, 18, 34 ];
+Você está desenvolvendo um sistema para um local de eventos, neste local pe necessário que a entrada seja permitida apenas para pessoas acima de 18 anos. Faça um programa para ler um número N, a idade de N péssoas. Depois disso, coloque a idade mínima permitida para se entrar no local, conforme o exemplo.
 
-//TODO: Complete os espaços em branco com uma possível solução para o desafio
-
-for (let i = 0; i < array.     ; i++){
-if (                      ){
-print(array[  ]);
-}          
-}
+Retorne as idades de quem não puder entrar.
