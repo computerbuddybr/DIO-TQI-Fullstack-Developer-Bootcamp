@@ -1,5 +1,3 @@
 ## Meu Hamburguer
 
-**DESCRIÇÃO**
-
-Nesse projeto você aprenderá os mais importantes tópicos para alavancar no mundo das animações utilizando CSS. Dentre eles o CSS Transitions utilizando pseudo elementos e pseudo classes e também CSS @keyframes. Ao fim do projeto, teremos a construção de um portfólio apenas utilizando HTML e CSS para fixação das aulas.
+Foi bem legal fazer um menu responsivo e com dropdown novamente na mão. Há anos venho usando o Bootstrap, mas bem no ínicio, nos meus primeiros sites, para aprender fiz na mão com hover do CSS e está aplicação diferente com keyframes ficou bem interessante. É sempre bom voltar às bases.
