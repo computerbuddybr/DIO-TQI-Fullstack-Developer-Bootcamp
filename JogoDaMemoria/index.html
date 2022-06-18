@@ -3,19 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <title>Jogo Da Memória por Adriana Cerdeira</title>
-  <link rel="stylesheet" href="css/css.css">
+    <link rel="stylesheet" href="css/css.css">
     <!--Google Fonts-->
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
 <header>
-  <a href="http://adrianacerdeira.info" target="_blank"> <img src="imagens/avatarAdriana.png" alt="Avatar da Adriana" class="drica"></a>
-  <h1>Jogo Da Memória</h1>
+    <div class="placar">
+        <p>Pontuação Total: <span class="pontos" id="pontuacaoTotal"></span></p>
+        <p>Tentativas Total: <span class="tentativas" id="tentativasTotal"></span></p>
+
+    </div>
+    <div class="placar">
+        <p>Melhor Pontuação: <span  class="pontos" id="pontuacaoMelhor"></span></p>
+        <p>Melhor Tentativas: <span  class="tentativas" id="tentativasMelhor"></span></p>
+    </div>
+    <div>
+        <a href="http://adrianacerdeira.info" target="_blank"> <img src="imagens/avatarAdriana.png"
+                                                                    alt="Avatar da Adriana" class="drica"></a>
+
+    </div>
+    <div>
+        <button id="jogarNovamente">Novo Jogo</button>
+    </div>
+
+    <div id="placarAtual" class="placar">
+        <p>Pontuação Atual: <span class="pontos atual" id="pontuacaoAtual"></span></p>
+        <p>Tentativas Atual: <span class="tentativas atual" id="tentativasAtual"></span></p>
+
+    </div>
 
 </header>
 <main>
-
+    <div id="0" class="cartas"></div>
+    <div id="1" class="cartas"></div>
+    <div id="2" class="cartas"></div>
+    <div id="3" class="cartas"></div>
+    <div id="4" class="cartas"></div>
+    <div id="5" class="cartas"></div>
+    <div id="6" class="cartas"></div>
+    <div id="7" class="cartas"></div>
+    <div id="8" class="cartas"></div>
+    <div id="9" class="cartas"></div>
+    <div id="10" class="cartas"></div>
+    <div id="11" class="cartas"></div>
 </main>
 
 <!--Meu Script-->

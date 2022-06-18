@@ -7,6 +7,9 @@ body{
     font-size: 100%;
     background-color: #a170d9;
     font-family: 'Lato', Arial, Verdana;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 
 
 }
@@ -22,75 +25,65 @@ img.drica{
 }
 header{
     width:100%;
+    height: 120px;
     background-color: #6e09e2;
     padding:0.5em;
     text-align: center;
     color:#FFFFFF;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
 }
+.placar{
+    font-size: 1.2em;
+}
+.pontos{
+    color: chartreuse;
 
+}
+.tentativas{
+    color: antiquewhite;
+
+}
+.atual{
+    font-size: 1.5em;
+}
+button#jogarNovamente{
+    font-size: 1.5em;
+    border-radius: 5px;
+    background-color: #d9009d;
+    color: white;
+    padding:0.5em;
+    border-color: #d9009d;
+}
+button#jogarNovamente:hover{
+    cursor:pointer;
+    background-color: #a170d9;
+    border-color: #a170d9;
+}
+button#jogarNovamente.desativa{
+    background-color: #CCCCCC;
+    cursor: none;
+    border-color: #CCCCCC;
+}
 /****
 Jogo
 ****/
-main{
-    padding: 5em;
-    with:100%;
-
+.cartas {
+    height: 30vh;
+    width: 15vw;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
-.wrapper{
-    width:600px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-.quadrado {
-    text-align: center;
-    width: 50px;
-    background: #eee;
-    display: inline-block;
-    padding-left: 60px;
-    padding-right: 60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-size: 60px;
-    margin: 5px;
-    cursor: pointer;
-    color: #eee;
-    box-shadow: 2px 2px #7a7373;
-    border-radius: 5px;
-}
-.jogador, .vencedor {
-    font-size: 30px;
-    margin-top: 10px;
-    color: #FFFFFF;
-}
-
-button {
-    margin-top: 10px;
-    width: 100px;
-    height: 30px;
-    background: #eee;
-    cursor: pointer;
-}
-.green{
-    background-color:greenyellow;
-    color:#FFFFFF;
-    /*font-weight: bold;*/
-
-}
-.red{
-    background-color:red;
-    color:#FFFFFF;
-    font-weight: bold;
-}
-.winner{
-    background-color:#6e09e2;
-}
-#reiniciar{
-    background-color: #6e09e2;
-    color: #FFFFFF;
-    border-radius: 5px;
-}
-#reiniciar:hover{
-    background-color: #d9009d;
+main {
+    align-items: center;
+    background-color: rgba(111, 11, 11, 0.8);
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-auto-rows: minmax(auto);
+    height: calc(100vh - 50px);
+    justify-items:center;
+    width: 80%;
 }
