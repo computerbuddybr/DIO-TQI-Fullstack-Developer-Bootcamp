@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/Scar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/rafiki.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/shenzi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/simba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/timao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/verso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/zazu.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JogoDaMemoria/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/JogoDaMemoria/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/JogoDaMemoria/css/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JogoDaMemoria/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JogoDaMemoria/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/JogoDaMemoria/js/js.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +61,7 @@
       <workItem from="1654809082704" duration="47000" />
       <workItem from="1655141532174" duration="505000" />
       <workItem from="1655491379115" duration="4236000" />
-      <workItem from="1655573326334" duration="9199000" />
+      <workItem from="1655573326334" duration="9587000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando pra pegar no Ubuntu">
       <created>1654713738116</created>
@@ -122,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655495041172</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Primeiro commit do Jogo da Memória funcionando.">
+      <created>1655582706898</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655582706898</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +131,7 @@
     <MESSAGE value="Desafios de JS completados" />
     <MESSAGE value="Desafios de Java completados." />
     <MESSAGE value="Entregando desafio do Menu Hamburguer." />
-    <option name="LAST_COMMIT_MESSAGE" value="Entregando desafio do Menu Hamburguer." />
+    <MESSAGE value="Primeiro commit do Jogo da Memória funcionando." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit do Jogo da Memória funcionando." />
   </component>
 </project>

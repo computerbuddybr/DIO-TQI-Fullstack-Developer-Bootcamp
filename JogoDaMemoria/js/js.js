@@ -158,7 +158,7 @@ function pararClique() {
 /**
  * Função chamada ao clicar nas cartas
  */
-function clicar() {
+function clicar(event) {
     mostrar(event.target);
     if (primeiraCarta) {
         segundaCarta = event.target;
