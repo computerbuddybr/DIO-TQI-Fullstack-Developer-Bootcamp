@@ -2,9 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/avatarAdriana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/Scar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/rafiki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/shenzi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/simba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/timao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/verso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/zazu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/avatarAdriana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/bowser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/luigi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/mario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/peach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/toad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/yoshi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/js/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JogoDaMemoria/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/JogoDaMemoria/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/JogoDaMemoria/js/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/avatarAdriana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/Scar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/rafiki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/shenzi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/simba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/timao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/verso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/zazu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/js/js.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +97,7 @@
       <workItem from="1654809082704" duration="47000" />
       <workItem from="1655141532174" duration="505000" />
       <workItem from="1655491379115" duration="4236000" />
-      <workItem from="1655573326334" duration="9587000" />
+      <workItem from="1655573326334" duration="15962000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando pra pegar no Ubuntu">
       <created>1654713738116</created>
@@ -119,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655582706898</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Refatoração. Troca de event global por parâmetro event.">
+      <created>1655583012449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655583012449</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +175,7 @@
     <MESSAGE value="Desafios de Java completados." />
     <MESSAGE value="Entregando desafio do Menu Hamburguer." />
     <MESSAGE value="Primeiro commit do Jogo da Memória funcionando." />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit do Jogo da Memória funcionando." />
+    <MESSAGE value="Refatoração. Troca de event global por parâmetro event." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatoração. Troca de event global por parâmetro event." />
   </component>
 </project>

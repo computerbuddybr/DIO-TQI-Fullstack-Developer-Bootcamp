@@ -61,7 +61,7 @@ button#jogarNovamente:hover{
     background-color: #a170d9;
     border-color: #a170d9;
 }
-button#jogarNovamente.desativa{
+button#jogarNovamente.desativada{
     background-color: #CCCCCC;
     cursor: none;
     border-color: #CCCCCC;

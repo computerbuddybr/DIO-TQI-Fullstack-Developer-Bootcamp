@@ -45,7 +45,7 @@ function penalizar() {
 
 function verificarSeJogoContinua() {
     if (numeroDeCombinacoesCertasJogo === numeroPossivelDeCombinacoesCertas) {
-        botaoJogarNovamente.classList.remove("desativa");
+        botaoJogarNovamente.classList.remove("desativada");
         novoJogoPossivel = true;
         atualizarPontosPlacarAoFimDeJogo();
         return false;
@@ -247,7 +247,7 @@ function novoJogo() {
 
     //Reseta pontuação e tentativas para novo jogo, botão e variável de controle
 
-    botaoJogarNovamente.classList.add("desativa");
+    botaoJogarNovamente.classList.add("desativada");
     numeroDeCombinacoesCertasJogo = 0;
     novoJogoPossivel = false;
     pontuacaoAtual = 10;

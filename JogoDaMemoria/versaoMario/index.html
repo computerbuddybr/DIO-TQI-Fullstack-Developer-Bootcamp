@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Jogo Da Memória por Adriana Cerdeira</title>
+    <link rel="stylesheet" href="css/css.css">
+    <!--Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<header>
+    <div class="scoreboard">
+        <p>Pontuação Total: <span class="score" id="totalScore"></span></p>
+        <p>Tentativas Total: <span class="attempts" id="totalAttempts"></span></p>
+
+    </div>
+    <div class="scoreboard">
+        <p>Melhor Pontuação: <span class="score" id="bestScore"></span></p>
+        <p>Melhor Tentativas: <span class="attempts" id="bestAttempts"></span></p>
+    </div>
+    <div>
+        <a href="http://adrianacerdeira.info" target="_blank"> <img src="imagens/avatarAdriana.png"
+                                                                    alt="Avatar da Adriana" class="drica"></a>
+
+    </div>
+    <div>
+        <button id="playAgain">Novo Jogo</button>
+    </div>
+
+    <div id="currentScoreboard" class="scoreboard">
+        <p>Pontuação Atual: <span class="score current" id="currentScore"></span></p>
+        <p>Tentativas Atual: <span class="attempts current" id="currentAttempts"></span></p>
+
+    </div>
+
+</header>
+<div class="wrapper">
+    <main class="memory-game">
+        <div class="card" data-card="bowser">
+            <img class="card-front" src="./imagens/jogo/bowser.jpg" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="luigi">
+            <img class="card-front" src="./imagens/jogo/luigi.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="mario">
+            <img class="card-front" src="./imagens/jogo/mario.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="peach">
+            <img class="card-front" src="./imagens/jogo/peach.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="toad">
+            <img class="card-front" src="./imagens/jogo/toad.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="yoshi">
+            <img class="card-front" src="./imagens/jogo/yoshi.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="bowser">
+            <img class="card-front" src="./imagens/jogo/bowser.jpg" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="luigi">
+            <img class="card-front" src="./imagens/jogo/luigi.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="mario">
+            <img class="card-front" src="./imagens/jogo/mario.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="peach">
+            <img class="card-front" src="./imagens/jogo/peach.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="toad">
+            <img class="card-front" src="./imagens/jogo/toad.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+        <div class="card" data-card="yoshi">
+            <img class="card-front" src="./imagens/jogo/yoshi.png" alt="Face da carta">
+            <img class="card-back" src="./imagens/jogo/box.png" alt="Verso da carta">
+        </div>
+    </main>
+</div>
+
+<!--Meu Script-->
+<script src="js/js.js" charset="UTF-8" defer></script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+/****
+Geral
+****/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    padding:0;
+    font-size: 100%;
+    background-color: #a170d9;
+    font-family: 'Lato', Arial, Verdana;
+    height: 100vh;
+
+
+}
+
+/****
+Header
+****/
+img.drica{
+    border-radius: 100%;
+    width: 100px;
+}
+header{
+    width:100%;
+    height: 120px;
+    background-color: #6e09e2;
+    padding:0.5em;
+    text-align: center;
+    color:#FFFFFF;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.scoreboard{
+    font-size: 1.2em;
+}
+.score{
+    color: chartreuse;
+
+}
+.attempts{
+    color: antiquewhite;
+
+}
+.current{
+    font-size: 1.5em;
+}
+button#playAgain{
+    font-size: 1.5em;
+    border-radius: 5px;
+    background-color: #d9009d;
+    color: white;
+    padding:0.5em;
+    border-color: #d9009d;
+}
+button#playAgain:hover{
+    cursor:pointer;
+    background-color: #a170d9;
+    border-color: #a170d9;
+}
+button#playAgain.disabled{
+    background-color: #CCCCCC;
+    cursor: none;
+    border-color: #CCCCCC;
+}
+/****
+Jogo
+****/
+.wrapper{
+    display: flex;
+    padding:2em;
+}
+.memory-game {
+    height: 640px;
+    width: 640px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    perspective: 1000px; /* perspectiva do usuario no eixo z, quanto maior, maior o efeito da perspectiva */
+}
+
+.card {
+    height: calc( 33.333% - 10px);
+    width: calc(25% - 10px);
+    margin: 5px;
+    position: relative;
+    box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+    cursor: pointer;
+    transform: scale(1);
+    transform-style: preserve-3d; /* adiciona perspectiva 3d, para que o elemento nao fique achatada no plano */
+    transition: transform .9s; /* adiciona efeito de movimento ao flip do card */
+}
+
+.card:active{
+    transform: scale(0.97);
+    transition: transform .2s;
+}
+
+.card-front,
+.card-back {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    position: absolute;
+    border-radius: 5px;
+    background: #8a59c2;
+    backface-visibility: hidden; /* todo elemento tem uma frente e um verso (ao contrario, como um espelho.) essa propriedade retira o verso */
+}
+
+.card-front {
+    transform: rotateY(180deg); /* antes, o verso aparecia transparente, pois ambas as imagens tem position absolute, ao girar no eixo Y, elas ficaram com os versos virados */
+}
+
+/* flip card animation */
+
+.card.flip {
+    transform: rotateY(180deg);
+}
