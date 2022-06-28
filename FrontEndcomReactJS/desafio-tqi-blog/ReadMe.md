@@ -13,3 +13,4 @@ O CSS decidi deixar junto por uma questão de gosto pessoal mesmo. Em um projeto
 **Recursos:**
 
 - JSONPlaceholder API: https://jsonplaceholder.typicode.com/
+- Bootstrap: https://getbootstrap.com/
