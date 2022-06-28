@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/avatarAdriana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/header/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/layout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/layout/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/no-search/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/no-search/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/profile/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/profile/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repositories/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repositories/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repository-item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repository-item/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/global/resetCSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/hooks/github-hooks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/providers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/providers/github-provider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/services/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/.codesandbox/workspace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/footer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/layout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/post-list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/post/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/service/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafiosJava/DuasNotas/Notas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DesafiosJava/DuasNotas/Notas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEndcomReactJS/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEndcomReactJS/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,16 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/adria/Dropbox/UAM/DIO/Bootcamp Philips/GitHub/DesafioeCommerceAngular/eCommerceAngular&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/adria/Dropbox/UAM/DIO/Bootcamp Philips/GitHub/DesafioeCommerceAngular/eCommerceAngular",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adria\Dropbox\UAM\DIO\BootTQI\DIO-TQI-Fullstack-Developer-Bootcamp\FrontEndcomReactJS\meuFrontReact" />
@@ -117,6 +75,7 @@
       <workItem from="1656363865879" duration="14000" />
       <workItem from="1656453548992" duration="122000" />
       <workItem from="1656453696531" duration="29000" />
+      <workItem from="1656454932642" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando pra pegar no Ubuntu">
       <created>1654713738116</created>

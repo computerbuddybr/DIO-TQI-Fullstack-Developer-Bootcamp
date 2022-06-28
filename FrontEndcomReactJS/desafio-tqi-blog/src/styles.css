@@ -42,6 +42,10 @@ main {
   background-color: #ffffff;
   border-radius: 5px;
   text-align: justify;
+  transition: transform 100ms ease-in-out;
+}
+.post:hover {
+  transform: scale(1.05);
 }
 
 .post h1 {
