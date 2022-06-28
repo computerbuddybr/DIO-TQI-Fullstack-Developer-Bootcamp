@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital@1&family=Work+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap");
+
+.App,
+#root {
+  font-family: "Libre Bodoni", serif;
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #6e09e2;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+/****
+Header
+****/
+header {
+  background-color: #6e09e2;
+  width: 100%;
+  margin: 0;
+  padding: 0.5em;
+  font-size: 2em;
+  font-weight: bold;
+}
+header img {
+  border-radius: 50%;
+  width: 100px;
+}
+/****
+Principal
+****/
+main {
+  background-color: #ac71ef;
+}
+.post {
+  margin: 2em;
+  color: #000000;
+  font-family: "Work Sans", sans-serif;
+  background-color: #ffffff;
+  border-radius: 5px;
+  text-align: justify;
+}
+
+.post h1 {
+  text-transform: capitalize;
+  text-align: center;
+  color: #6e09e2;
+}
+.post h2 {
+  font-style: italic;
+  font-size: 1em;
+  margin: 0.5em;
+  text-align: center;
+}
+.postBody {
+  margin-top: 0.5em;
+}
+/****
+Footer
+****/
+.footer {
+  padding: 1em;
+  width: 100%;
+  font-family: "Libre Bodoni", serif;
+}
+
+.footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: #cccccc;
+}

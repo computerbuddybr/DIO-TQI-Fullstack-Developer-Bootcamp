@@ -2,45 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/avatarAdriana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/Scar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/rafiki.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/shenzi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/simba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/timao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/verso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/imagens/jogo/zazu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoLionKing/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/avatarAdriana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/bowser.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/luigi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/mario.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/peach.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/toad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/imagens/jogo/yoshi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JogoDaMemoria/versaoMario/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/avatarAdriana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/header/styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/layout/styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/no-search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/no-search/styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/profile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/profile/styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repositories/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repositories/styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repository-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/components/repository-item/styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/global/resetCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/hooks/github-hooks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/providers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/providers/github-provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/services/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-react-dio-do-expert/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/post-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/components/post/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/service/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/src/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/JogoDaMemoria/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/css/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/avatarAdriana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/Scar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/rafiki.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/shenzi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/simba.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/timao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/verso.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/imagens/jogo/zazu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JogoDaMemoria/js/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafiosJava/DuasNotas/Notas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DesafiosJava/DuasNotas/Notas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEndcomReactJS/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEndcomReactJS/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +76,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/adria/Dropbox/UAM/DIO/Bootcamp Orbi/Projetos/DIO-Orbi-Web-Games-Developer&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adria/Dropbox/UAM/DIO/Bootcamp Philips/GitHub/DesafioeCommerceAngular/eCommerceAngular&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Dropbox\UAM\DIO\BootTQI\DIO-TQI-Fullstack-Developer-Bootcamp\FrontEndcomReactJS\meuFrontReact" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DesafiosJS/somaNumerosNaturais/js.js" working-dir="$PROJECT_DIR$/DesafiosJS/somaNumerosNaturais">
       <method v="2" />
@@ -97,7 +108,15 @@
       <workItem from="1654809082704" duration="47000" />
       <workItem from="1655141532174" duration="505000" />
       <workItem from="1655491379115" duration="4236000" />
-      <workItem from="1655573326334" duration="15962000" />
+      <workItem from="1655573326334" duration="16197000" />
+      <workItem from="1655746185283" duration="1799000" />
+      <workItem from="1655834324612" duration="1802000" />
+      <workItem from="1655842013761" duration="1595000" />
+      <workItem from="1655848377784" duration="639000" />
+      <workItem from="1655920127962" duration="606000" />
+      <workItem from="1656363865879" duration="14000" />
+      <workItem from="1656453548992" duration="122000" />
+      <workItem from="1656453696531" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando pra pegar no Ubuntu">
       <created>1654713738116</created>
@@ -162,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655583012449</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit do segundo Jogo da Memória.">
+      <created>1655589477810</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655589477810</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +202,7 @@
     <MESSAGE value="Entregando desafio do Menu Hamburguer." />
     <MESSAGE value="Primeiro commit do Jogo da Memória funcionando." />
     <MESSAGE value="Refatoração. Troca de event global por parâmetro event." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refatoração. Troca de event global por parâmetro event." />
+    <MESSAGE value="Commit do segundo Jogo da Memória." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit do segundo Jogo da Memória." />
   </component>
 </project>

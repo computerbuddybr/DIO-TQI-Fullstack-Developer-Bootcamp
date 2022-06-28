@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c9fe168-0a79-4224-a59b-ba343539ba26" name="Changes" comment="" />
+    <list default="true" id="1c9fe168-0a79-4224-a59b-ba343539ba26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/main/java/info/adriana/eCommerceJavaAPI/ECommerceJavaApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/main/java/info/adriana/eCommerceJavaAPI/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/main/java/info/adriana/eCommerceJavaAPI/entities/Authors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/main/java/info/adriana/eCommerceJavaAPI/entities/AuthorsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/main/java/info/adriana/eCommerceJavaAPI/entities/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/main/java/info/adriana/eCommerceJavaAPI/entities/BooksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FrontEndcomReactJS/eCommerceJavaAPI/src/test/java/info/adriana/eCommerceJavaAPI/ECommerceJavaApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +43,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/adria/Dropbox/UAM/DIO/BootTQI/DIO-TQI-Fullstack-Developer-Bootcamp/FrontEndcomReactJS/eCommerceJavaAPI"
   }
 }]]></component>
   <component name="RunManager">
@@ -52,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654800452965</updated>
       <workItem from="1654800454154" duration="3181000" />
+      <workItem from="1655838891496" duration="36000" />
     </task>
     <servers />
   </component>
