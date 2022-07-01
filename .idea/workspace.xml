@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEndcomReactJS/desafio-tqi-blog/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +26,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/adria/Dropbox/UAM/DIO/Bootcamp Philips/GitHub/DesafioeCommerceAngular/eCommerceAngular&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/adria/Dropbox/UAM/DIO/EvolutionBoot/DIO-Evolution-Bootcamp",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adria\Dropbox\UAM\DIO\BootTQI\DIO-TQI-Fullstack-Developer-Bootcamp\FrontEndcomReactJS\meuFrontReact" />
@@ -76,7 +75,8 @@
       <workItem from="1656453548992" duration="122000" />
       <workItem from="1656453696531" duration="29000" />
       <workItem from="1656454932642" duration="91000" />
-      <workItem from="1656455079225" duration="55000" />
+      <workItem from="1656455079225" duration="119000" />
+      <workItem from="1656697713607" duration="1727000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando pra pegar no Ubuntu">
       <created>1654713738116</created>
