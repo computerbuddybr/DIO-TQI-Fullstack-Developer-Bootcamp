@@ -2,7 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286d6aa6-8d55-4fdb-b9b4-bead79e980e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/ExemploDePadraoDeProjetoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/controller/ClienteRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/model/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/model/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/model/EnderecoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/service/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/service/ViaCepService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/service/impl/ClienteServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ExemploDePadraoDeProjeto/src/test/java/info/adrianacerdeira/ExemploDePadraoDeProjeto/ExemploDePadraoDeProjetoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/ProjetoFacade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/out/production/ProjetoFacade/info/adrianacerdeira/Facade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/out/production/ProjetoFacade/info/adrianacerdeira/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/out/production/ProjetoFacade/info/adrianacerdeira/subSistema1/crm/CRMService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/out/production/ProjetoFacade/info/adrianacerdeira/subSistema2/cep/CepApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/src/info/adrianacerdeira/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/src/info/adrianacerdeira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/src/info/adrianacerdeira/subSistema1/crm/CRMService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Facade/ProjetoFacade/src/info/adrianacerdeira/subSistema2/cep/CepApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/ReadMe.Md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/ProjetoSingleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/out/production/ProjetoSingleton/info/adrianacerdeira/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/out/production/ProjetoSingleton/info/adrianacerdeira/SingletonEager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/out/production/ProjetoSingleton/info/adrianacerdeira/SingletonLazy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/out/production/ProjetoSingleton/info/adrianacerdeira/SingletonLazyHolder$InstanceHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/out/production/ProjetoSingleton/info/adrianacerdeira/SingletonLazyHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/src/info/adrianacerdeira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/src/info/adrianacerdeira/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/src/info/adrianacerdeira/SingletonLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Singleton/ProjetoSingleton/src/info/adrianacerdeira/SingletonLazyHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/PojetoStrategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/out/production/PojetoStrategy/info/adrianacerdeira/Comportamento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/out/production/PojetoStrategy/info/adrianacerdeira/ComportamentoAgressivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/out/production/PojetoStrategy/info/adrianacerdeira/ComportamentoDefensivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/out/production/PojetoStrategy/info/adrianacerdeira/ComportamentoNormal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/out/production/PojetoStrategy/info/adrianacerdeira/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/out/production/PojetoStrategy/info/adrianacerdeira/Robo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/src/info/adrianacerdeira/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/src/info/adrianacerdeira/ComportamentoAgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/src/info/adrianacerdeira/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/src/info/adrianacerdeira/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/src/info/adrianacerdeira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PadroesDeProjeto/Strategy/PojetoStrategy/src/info/adrianacerdeira/Robo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesUnitarios/ReadMe.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,17 +94,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/adria/Dropbox/UAM/DIO/EvolutionBoot/DIO-Evolution-Bootcamp",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adria/Dropbox/UAM/DIO/BootTQI/DIO-TQI-Fullstack-Developer-Bootcamp&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adria\Dropbox\UAM\DIO\BootTQI\DIO-TQI-Fullstack-Developer-Bootcamp\FrontEndcomReactJS\meuFrontReact" />
@@ -76,7 +144,9 @@
       <workItem from="1656453696531" duration="29000" />
       <workItem from="1656454932642" duration="91000" />
       <workItem from="1656455079225" duration="119000" />
-      <workItem from="1656697713607" duration="1727000" />
+      <workItem from="1656697713607" duration="2405000" />
+      <workItem from="1656784074667" duration="329000" />
+      <workItem from="1657053046133" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando pra pegar no Ubuntu">
       <created>1654713738116</created>
@@ -148,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655589477810</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Passando arquivos de um comp pra outro.">
+      <created>1656699906164</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656699906164</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +240,7 @@
     <MESSAGE value="Primeiro commit do Jogo da Memória funcionando." />
     <MESSAGE value="Refatoração. Troca de event global por parâmetro event." />
     <MESSAGE value="Commit do segundo Jogo da Memória." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit do segundo Jogo da Memória." />
+    <MESSAGE value="Passando arquivos de um comp pra outro." />
+    <option name="LAST_COMMIT_MESSAGE" value="Passando arquivos de um comp pra outro." />
   </component>
 </project>

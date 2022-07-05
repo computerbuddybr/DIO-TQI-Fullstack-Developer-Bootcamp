@@ -1,0 +1,1 @@
+Aplicação do padrão Singleton com Java Puro seguindo exemplo do professor.

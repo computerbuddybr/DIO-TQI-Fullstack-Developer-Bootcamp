@@ -1,0 +1,1 @@
+Aplicação do padrão Facade com Java puro seguindo exemplo do professor. Fiz algumas alterações para poder simular uma base de dados de onde se buscaria a cidade e estado. 

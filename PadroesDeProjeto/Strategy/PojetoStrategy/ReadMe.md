@@ -1,0 +1,1 @@
+Exemplo de padrão Strategy com Java puro seguindo exemplo do professor.
