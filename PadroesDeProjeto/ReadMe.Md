@@ -6,4 +6,6 @@ Aplicação dos seguintes Padrões de Projeto:
 - Facade
 - API REST com Spring
 
-Decidi fazer acompanhando o professor desta vez, pois sou nova nos Design Patterns e achei que fosse ser a melhor maneira de aprender.
+Decidi fazer acompanhando o professor na maioria dos casos, pois sou nova nos Design Patterns e achei que fosse ser a melhor maneira de aprender.
+
+Me aventurei a tentar criar uma calculadora simples com o padrão strategy.

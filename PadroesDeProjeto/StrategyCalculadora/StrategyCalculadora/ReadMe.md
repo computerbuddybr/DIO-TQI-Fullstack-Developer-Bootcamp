@@ -1,0 +1,1 @@
+## Implementando o padrão de projeto Strategy com uma calculadora simples de linha de comando.
